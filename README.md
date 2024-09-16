@@ -1,5 +1,7 @@
 # Learn Accessibility by Building a Quiz
 
+![screencapture-freecodecamp-responsive-web-design-github-io-learn-accesibility-by-building-a-quiz-2024-09-16-17_31_37](https://github.com/user-attachments/assets/7fe9c43a-4cb2-4ab4-89da-28f911f07619)
+
 This project is part of the **FreeCodeCamp** curriculum, where you'll learn about **web accessibility** by building a **Quiz** application.
 
 [Learn Accessibility by Building a Quiz](https://freecodecamp-responsive-web-design.github.io/learn-accesibility-by-building-a-quiz/)
